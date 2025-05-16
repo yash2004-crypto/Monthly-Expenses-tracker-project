@@ -1,0 +1,10 @@
+[
+    {"date":"2025-05-01", "description":"zomato", "amount":"5000"},
+    {"date":"2025-05-02", "description":"taxi", "amount":"4000"},
+    {"date":"2025-05-03", "description":"amazon", "amount":"6000"},
+    {"date":"2025-05-04", "description":"internet", "amount":"2000"},
+    {"date":"2025-05-05", "description":"netflix" ,"amount":"500"}
+    
+    
+
+]
